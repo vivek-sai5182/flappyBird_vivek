@@ -1,0 +1,1 @@
+window.blit(sky,(0,0))
